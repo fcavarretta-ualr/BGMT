@@ -11,7 +11,7 @@ Author names and affiliations, including postal codes:
     1510 East Clifton Road Northeast 2006
     Atlanta, GA 30322
     +1 (203) 503-7071
-    fcavarr@emory.edu; francesco.cavarretta.neuro@gmail.com
+    fcavarretta@ualr.edu; fncavarretta@gmail.com
 
     Dieter Jaeger
     Department of Biology, Emory University
